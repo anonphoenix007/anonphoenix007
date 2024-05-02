@@ -1,13 +1,6 @@
 ### Hi there 👋
 
-<!--
-**anonphoenix007/anonphoenix007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...### Hi there 👋
-
-  ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVehanRajintha%2FVehanRajintha&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+  ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanonphoenix007%2Fanonphoenix007&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
 
 ![forks](https://img.shields.io/github/forks/anonphoenix007/anonphoenix007?label=Forks&style=social)
@@ -15,7 +8,7 @@ Here are some ideas to get you started:
 
 ![size](https://img.shields.io/github/repo-size/anonphoenix007/anonphoenix007?color=purple&label=Repo%20Size&style=plastic)
 ![license](https://img.shields.io/github/license/anonphoenix007/X-UI-English-?color=purple&label=License&style=plastic)
-![developer](https://img.shields.io/static/v1?label=Author&message=anojphoenix%20Ra007&color=purple&style=plastic)
+![developer](https://img.shields.io/static/v1?label=Author&message=anonphoenix%20007&color=purple&style=plastic)
 
 
 
@@ -33,7 +26,7 @@ Here are some ideas to get you started:
 - 💬 Text me on telegram https://t.me/anonphoenix007
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=VehanRajintha)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=anonphoenix007)](https://github.com/ryo-ma/github-profile-trophy)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -41,4 +34,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
