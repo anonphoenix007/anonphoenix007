@@ -24,6 +24,7 @@
 - 📫 Email me via phoenixgibson007@gmail.com to contact
 - 🤩 Follow me on Instagram https://www.instagram.com/anonphoenix007/
 - 💬 Text me on telegram https://t.me/anonphoenix007
+- ✉️ Text me on WhatsApp https://wa.me/2347080968564
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=anonphoenix007)](https://github.com/ryo-ma/github-profile-trophy)
