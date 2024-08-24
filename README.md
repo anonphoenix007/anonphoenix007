@@ -17,14 +17,12 @@
 
 
 - 😊 I’m Taira Makino
-- 👦🏻 Age is unknown
+- 👦🏻 Age is 19
 - 👀 I’m interested in Hacking,Programming,Javascript ,bot deployment,python,C...
-- 🌱 Currently a student at unknown
 - 💞️ I’m looking to collaborate on programming ,Linux ,Linux tools development ,WhatsApp bot development...
 - 📫 Email me via phoenixgibson007@gmail.com to contact
 - 🤩 Follow me on Instagram https://www.instagram.com/anonphoenix007/
 - 💬 Text me on telegram https://t.me/anonphoenix007
-- ✉️ Text me on WhatsApp https://wa.me/2347080968564
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=anonphoenix007)](https://github.com/ryo-ma/github-profile-trophy)
