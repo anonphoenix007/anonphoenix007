@@ -36,6 +36,10 @@
     <br>
 <a href='https://wa.me/' target="_blank"><img alt='WHATSAPP' src='https://img.shields.io/badge/WHATSAPP-ID-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
+3. E-mail
+    <br>
+<a href="phoenixgibson007@gmail.com" target="_blank"><img alt='G-MAIL' src='https://img.shields.io/badge/G-MAIL-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+
 #### Fun Code
 ```js
 const name = `𝐓𝐀𝐈𝐑𝐀 𝐓𝐄𝐂𝐇`
