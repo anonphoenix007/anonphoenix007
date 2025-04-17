@@ -22,7 +22,6 @@
 - Location: `Earth`
 - Skilled with `NodeJS and Python and Linux system administrator.`
 - Currently learning `C`
-- `
 
 
 #### Notice
@@ -39,25 +38,12 @@
     <br>
 <a href='https://wa.me/' target="_blank"><img alt='WHATSAPP' src='https://img.shields.io/badge/WHATSAPP-ID-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
-#### DEPLOY STEPS
-
-1. Fork This Repository 
-2. Update [`config.js`] if you want more functions or skip
+#### Fun Code
 ```js
 const name = `𝐓𝐀𝐈𝐑𝐀 𝐓𝐄𝐂𝐇`
 console.log(name)
 ```
 ---
-
-## ```Support Me```
-<a href='https://t.me/Tha_Healer' target="_blank"><img alt='Telegram' src='https://img.shields.io/badge/CONTACT-h?color=black&style=for-the-badge&logo=Telegram' width="96.35" height="28"/></a></p>
-<a href='https://wa.me/2349072958046' target="_blank"><img alt='Whatsapp 1' src='https://img.shields.io/badge/WhatsApp 1-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
-<a href='https://wa.me/2349031616504' target="_blank"><img alt='Whatsapp 2' src='https://img.shields.io/badge/WhatsApp2-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
-
-<h2 align="center"> Please don't forget to Star the repo and follow me 🌟
-</h2>
-
-
  
  ## 𝐓𝐀𝐈𝐑𝐀 𝐓𝐄𝐂𝐇
   <div align="center">
