@@ -18,7 +18,7 @@
 - Age: `19`
 - Gender: null
 - Location: `Earth`
-- Skilled with `NodeJS and Python and Linux system administrator.`
+- Skilled with `NodeJS, Python, Linux system administrator and more.`
 - Currently learning `C`
 
 
