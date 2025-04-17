@@ -1,5 +1,3 @@
-<p align="center">
-<a href="https://github.com/anonphoenix007"><img title="Author" src="https://img.shields.io/badge/Author_Of_Xchriss-Bot-black"></a>
 
 <p align="center">  
   <a href="https://t.me/Tha_Healer">
@@ -8,7 +6,7 @@
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/anonphoenix007"><img title="Author" src="https://img.shields.io/badge/20-25-black?style=for-the-badge&logo=twitter"></a>
+<a href="https://github.com/anonphoenix007"><img title="Author" src="https://img.shields.io/badge/Year-2025-black?style=for-the-badge&logo=twitter"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/anonphoenix007?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/anonphoenix007?label=Followers&style=social"></a>
